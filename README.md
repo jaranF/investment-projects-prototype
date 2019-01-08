@@ -9,7 +9,7 @@
     
 ## Install Redis (if not already installed)
    See [Redis site](https://redis.io/) for download, extract and build instructions
-   HINT: It is best to install into a directory already in your system path or add an entry to your $PATH (Mac / Unix / Linux) or %PATH% (Windows) environment variable to the Redis executable.
+   HINT: It is best to install into a directory already in your system path or add an entry to your `$PATH` (Mac / Unix / Linux) or `%PATH%` (Windows) environment variable to the Redis executable.
    
 ## Run Redis
     redis-server
