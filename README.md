@@ -1,7 +1,7 @@
 # Investment Projects Prototype
 
 ## Dependencies
- - [node](https://nodejs.org/en/)
+ - [node@8.11.3](https://nodejs.org/download/release/v8.11.3/)
  - [yarn](https://yarnpkg.com/lang/en/)
 
 ## Install dependencies
